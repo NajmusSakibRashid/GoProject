@@ -1,0 +1,5 @@
+.*
+rssagg
+!.gitignore
+/vendor
+/thunder-tests
